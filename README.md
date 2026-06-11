@@ -1,89 +1,118 @@
 # 🛡️ Cybersecurity Second Brain com NotebookLM
 
-## 📖 Sobre o Projeto
+> Projeto desenvolvido para o desafio da DIO sobre utilização de Inteligência Artificial como ferramenta de aprendizagem ativa.
 
-Este projeto foi desenvolvido como parte do desafio da DIO sobre utilização de Inteligência Artificial como ferramenta de aprendizagem ativa.
+---
 
-O objetivo foi criar um **Segundo Cérebro em Cybersecurity**, utilizando o NotebookLM para centralizar conteúdos, realizar consultas inteligentes, conectar conceitos e transformar materiais dispersos em conhecimento estruturado e reutilizável.
+# 📌 Sobre o Projeto
 
-O NotebookLM foi alimentado com documentações técnicas e materiais em vídeo relacionados à área de Cibersegurança, permitindo a criação de resumos, mapas mentais, trilhas de aprendizado e materiais de revisão.
+Este projeto apresenta a criação de um **Segundo Cérebro em Cybersecurity**, utilizando o NotebookLM como ferramenta principal para organização, consulta e construção de conhecimento baseado em fontes confiáveis.
+
+O objetivo não foi apenas concluir o desafio da DIO, mas construir uma base de conhecimento que possa ser utilizada continuamente durante minha jornada de estudos em Segurança da Informação, Pentest e Cibersegurança.
 
 ---
 
 # 🎯 Objetivos
 
-* Consolidar conhecimentos fundamentais de Cybersecurity;
-* Construir uma base de conhecimento reutilizável;
-* Explorar o uso do NotebookLM como ferramenta de estudo;
-* Aprimorar habilidades de Engenharia de Prompts;
-* Criar um material de consulta para futuras revisões;
-* Desenvolver uma trilha de aprendizado em Segurança da Informação e Pentest.
-
----
-
-# 🧠 Criação do NotebookLM
-
 ## Objetivo Principal
 
-Criar um segundo cérebro para aprimorar os conhecimentos em Cibersegurança (Cybersecurity), baseado em documentações técnicas e conteúdos audiovisuais.
+Criar um segundo cérebro para aprimorar os conhecimentos em Cybersecurity (Cibersegurança), baseado em documentações técnicas e conteúdos audiovisuais.
+
+## Objetivos Específicos
+
+* Consolidar conhecimentos fundamentais de Cybersecurity;
+* Aprender conceitos de Segurança Ofensiva (Offensive Security);
+* Compreender processos de Pentest;
+* Estudar Gerenciamento de Vulnerabilidades;
+* Entender mecanismos de Defesa Cibernética;
+* Criar uma base de conhecimento reutilizável;
+* Aprimorar habilidades de Engenharia de Prompts;
+* Explorar o NotebookLM como ferramenta de aprendizagem ativa.
 
 ---
 
-# 🎥 Fontes de Vídeo
+# 🧠 NotebookLM Utilizado
+
+Notebook criado para organização e consulta dos materiais estudados:
+
+https://notebooklm.google.com/notebook/1fb791d8-730a-44ab-a97b-1f56e7f874fc
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+* NotebookLM
+* Inteligência Artificial Generativa
+* Git
+* GitHub
+* YouTube
+* IBM Think
+* Markdown
+
+---
+
+# 📚 Curadoria de Fontes
+
+As fontes foram selecionadas com foco em fundamentos, práticas ofensivas, gestão de vulnerabilidades e proteção de ambientes corporativos.
+
+## 🎥 Fontes de Vídeo
 
 ### Ethical Hacking e Pentest
 
-* PARTE I: Curso Completo - Ethical Hacking e Pentest
-* PARTE II - FINAL: Curso Completo - Ethical Hacking e Pentest
+- [PARTE I: Curso Completo - Ethical Hacking e Pentest](https://www.youtube.com/watch?v=u9bvt-IvvQs&list=PLw9WyCrLX9nB7nLotUGUj-bWiWLD6T67q&index=33&pp=iAQBsAgC)
+  
+- [PARTE II - FINAL: Curso Completo - Ethical Hacking e Pentest](https://www.youtube.com/watch?v=w3nMkXed_J0&list=PLw9WyCrLX9nB7nLotUGUj-bWiWLD6T67q&index=34&pp=iAQBsAgC)
 
 ### Especializações
 
-* Pentester Mobile: Aula Completa de Cibersegurança
-* NMAP Aula Completa Cyber Security
-* Netcat Cyber Security Aula Completa Básico ao Avançado
+- [Pentester Mobile: Aula Completa de Cibersegurança](https://www.youtube.com/watch?v=Af1cq2Q1uT0&list=PLw9WyCrLX9nB7nLotUGUj-bWiWLD6T67q&index=40&pp=iAQBsAgC)
+
+- [NMAP Aula Completa Cyber Security](https://www.youtube.com/watch?v=al4S-zUthAk&list=PLw9WyCrLX9nB7nLotUGUj-bWiWLD6T67q&index=41&pp=iAQBsAgC)
+
+- [Netcat Cyber Security Aula Completa Básico Ao Avançado](https://www.youtube.com/watch?v=EhI8nSSzQVI&list=PLw9WyCrLX9nB7nLotUGUj-bWiWLD6T67q&index=42&pp=iAQBsAgC)
 
 ---
 
-# 📚 Fontes de Texto
+## 📖 Fontes de Texto
 
-## Conceitos Fundamentais
+### Conceitos Fundamentais
 
-* Cybersecurity
-* Cyber Attack
-* Data Security
-* Identity and Access Management (IAM)
-* Cloud Security
+- [Cybersecurity](https://www.ibm.com/br-pt/think/topics/cybersecurity)
+- [Cyber Attack](https://www.ibm.com/br-pt/think/topics/cyber-attack)
+- [Data Security](https://www.ibm.com/br-pt/think/topics/data-security)
+- [Identity and Access Management (IAM)](https://www.ibm.com/br-pt/think/topics/identity-access-management)
+- [Cloud Security](https://www.ibm.com/br-pt/think/topics/cloud-security)
 
-## Proteção de Sistemas e Infraestrutura
+### Proteção de Sistemas e Infraestrutura
 
-* Endpoint Security
-* Network Security
-* Web Security
+- [Endpoint Security](https://www.ibm.com/br-pt/think/topics/endpoint-security)
+- [Network Security](https://www.ibm.com/br-pt/think/topics/network-security)
+- [Web Security](https://www.ibm.com/br-pt/think/topics/web-security)
 
-## Gestão de Vulnerabilidades e Ameaças
+### Gestão de Vulnerabilidades e Ameaças
 
-* Vulnerability Management
-* Threat Detection and Response
-* Threat Management
+- [Vulnerability Management](https://www.ibm.com/br-pt/think/topics/vulnerability-management)
+- [Threat Detection and Response](https://www.ibm.com/br-pt/think/topics/threat-detection-and-response)
+- [Threat Management](https://www.ibm.com/br-pt/think/topics/threat-management)
 
-## Segurança Ofensiva e Tecnologias Emergentes
+### Segurança Ofensiva e Tecnologias Emergentes
 
-* Offensive Security
-* AI Security
-
----
-
-# 🔎 Metodologia de Exploração do NotebookLM
-
-Durante a utilização do NotebookLM, foram realizados diversos ciclos de perguntas para explorar os materiais carregados.
+- [Offensive Security](https://www.ibm.com/br-pt/think/topics/offensive-security)
+- [AI Security](https://www.ibm.com/br-pt/think/topics/ai-security)
 
 ---
 
-## Prompt 1 — Compreensão
+# 🔍 Estratégia de Aprendizagem
 
-### Objetivo
+A exploração do NotebookLM foi realizada através de ciclos progressivos de perguntas, partindo da compreensão básica até aplicações práticas em cenários reais.
 
-Entender os conceitos fundamentais presentes nas fontes.
+---
+
+# Prompt 1 — Compreensão
+
+## Objetivo
+
+Entender conceitos fundamentais.
 
 ### Perguntas
 
@@ -96,9 +125,9 @@ Entender os conceitos fundamentais presentes nas fontes.
 
 ---
 
-## Prompt 2 — Conexão dos Conceitos
+# Prompt 2 — Conexão dos Conceitos
 
-### Objetivo
+## Objetivo
 
 Relacionar diferentes áreas da Cybersecurity.
 
@@ -112,9 +141,9 @@ Relacionar diferentes áreas da Cybersecurity.
 
 ---
 
-## Prompt 3 — Visão de Pentester
+# Prompt 3 — Visão de Pentester
 
-### Objetivo
+## Objetivo
 
 Pensar como um profissional da área.
 
@@ -129,24 +158,25 @@ Pensar como um profissional da área.
 
 ---
 
-## Prompt 4 — Casos Reais
+# Prompt 4 — Casos Reais
 
-### Objetivo
+## Objetivo
 
-Aplicar os conhecimentos em cenários práticos.
+Aplicar conhecimentos em situações práticas.
 
 ### Perguntas
 
-* Simule um ataque a uma empresa fictícia e explique como cada conceito estudado poderia ajudar na defesa.
-* Uma empresa sofreu um ransomware. Como os conceitos estudados poderiam reduzir os danos?
-* Quais controles de segurança poderiam impedir um vazamento de dados?
-* Crie um cenário de vulnerabilidade em uma aplicação web e explique como identificar e corrigir.
+* Simule um ataque a uma empresa fictícia.
+* Como cada conceito estudado poderia ajudar na defesa?
+* Como reduzir os impactos de um ransomware?
+* Quais controles podem impedir um vazamento de dados?
+* Como identificar e corrigir vulnerabilidades em aplicações web?
 
 ---
 
 # 🧠 Engenharia de Prompts
 
-Durante a construção do caderno temático foram realizados testes para compreender como diferentes abordagens influenciam a qualidade das respostas produzidas pelo NotebookLM.
+Durante os testes, foi possível observar como pequenas alterações nos prompts influenciam diretamente a qualidade das respostas.
 
 ---
 
@@ -158,16 +188,22 @@ Durante a construção do caderno temático foram realizados testes para compree
 
 ### Resultado
 
-O NotebookLM forneceu uma explicação clara sobre:
+Foi apresentada uma explicação básica sobre:
 
 * Vulnerabilidades;
 * Ciclo de gerenciamento;
 * Correção e mitigação;
-* Ferramentas relacionadas.
+* Ferramentas utilizadas.
+
+### Limitações
+
+* Poucos exemplos;
+* Baixa contextualização;
+* Resposta superficial.
 
 ### Aprendizado
 
-Prompts genéricos geram respostas corretas, porém superficiais.
+Prompts genéricos produzem respostas corretas, mas com pouco aprofundamento.
 
 ---
 
@@ -179,17 +215,16 @@ Prompts genéricos geram respostas corretas, porém superficiais.
 
 ### Resultado
 
-Foram apresentados:
+A resposta passou a incluir:
 
-* Casos reais como WannaCry e Heartbleed;
-* Relações com IAM;
-* Relações com Offensive Security;
-* Relações com Cloud Security;
-* Aplicações corporativas.
+* Casos reais;
+* Correlação entre conceitos;
+* Aplicações corporativas;
+* Cenários práticos.
 
 ### Aprendizado
 
-Adicionar contexto e exemplos reais melhora significativamente a profundidade das respostas.
+Quanto maior o contexto fornecido, melhor a qualidade da resposta gerada.
 
 ---
 
@@ -201,11 +236,11 @@ Adicionar contexto e exemplos reais melhora significativamente a profundidade da
 
 ### Resultado
 
-Foi criada uma trilha de estudos estruturada contendo:
+Foi criado um roadmap estruturado contendo:
 
 1. Redes e Computação;
 2. Linux;
-3. Python;
+3. Programação;
 4. Defesa Cibernética;
 5. Pentest;
 6. Especializações;
@@ -213,128 +248,159 @@ Foi criada uma trilha de estudos estruturada contendo:
 
 ### Aprendizado
 
-A IA pode ser utilizada para transformar conteúdos dispersos em roteiros de estudo organizados.
-
----
-
-## Conclusões
-
-Os melhores resultados foram obtidos quando:
-
-* Foi definido um papel para a IA;
-* Foram utilizados exemplos reais;
-* Houve conexão entre conceitos;
-* Foi definido o público-alvo;
-* Foram solicitadas respostas estruturadas.
+O NotebookLM pode atuar como um organizador de conhecimento e auxiliar na criação de trilhas de aprendizado.
 
 ---
 
 # 📖 Miniguia de Estudos
 
-## Fundamentos
+## Fundamentos da Cybersecurity
 
-Cybersecurity é a prática de proteger sistemas, redes, aplicações e dados contra acessos não autorizados, ataques e interrupções.
+Cybersecurity é o conjunto de práticas, processos e tecnologias utilizadas para proteger sistemas, redes, aplicações e dados contra ataques, acessos indevidos e interrupções.
 
-Principais pilares:
+### Princípios Fundamentais
 
-* Confidencialidade;
-* Integridade;
-* Disponibilidade.
-
----
-
-## Áreas Fundamentais
-
-### IAM (Identity and Access Management)
-
-Responsável por autenticação, autorização e controle de acesso.
-
-### Network Security
-
-Proteção da infraestrutura de rede.
-
-### Endpoint Security
-
-Proteção de dispositivos finais.
-
-### Web Security
-
-Proteção de aplicações web e serviços expostos à internet.
-
-### Cloud Security
-
-Proteção de ambientes em nuvem.
+* Confidencialidade
+* Integridade
+* Disponibilidade
 
 ---
 
-## Gestão de Vulnerabilidades
+## Gestão de Identidade e Acesso (IAM)
+
+Responsável por controlar quem pode acessar recursos e quais ações podem ser executadas.
+
+Principais conceitos:
+
+* Autenticação
+* Autorização
+* Auditoria
+* Privilégio Mínimo
+* MFA
+
+---
+
+## Segurança de Redes
+
+Objetivo:
+
+Proteger a infraestrutura de comunicação.
+
+Tecnologias comuns:
+
+* Firewall
+* IDS
+* IPS
+* VPN
+* Segmentação de Rede
+
+---
+
+## Segurança de Endpoints
+
+Proteção de:
+
+* Computadores
+* Smartphones
+* Tablets
+* Servidores
+
+---
+
+## Segurança Web
+
+Principais ameaças:
+
+* SQL Injection
+* XSS
+* CSRF
+* Broken Authentication
+
+---
+
+## Gerenciamento de Vulnerabilidades
 
 Processo contínuo composto por:
 
-1. Descoberta;
-2. Priorização;
-3. Correção;
-4. Validação;
-5. Monitoramento.
+1. Descoberta
+2. Priorização
+3. Correção
+4. Validação
+5. Monitoramento
 
 ---
 
-## Offensive Security
+## Segurança Ofensiva
 
-Abordagem ofensiva utilizada para identificar vulnerabilidades antes de atacantes reais.
+Área responsável por identificar vulnerabilidades antes dos atacantes.
 
 Ferramentas estudadas:
 
-* Nmap;
-* Netcat;
-* Metasploit;
-* Nessus.
+* Nmap
+* Netcat
+* Nessus
+* Metasploit
 
 ---
 
 # 📚 Glossário
 
-| Termo                    | Definição                                                 |
-| ------------------------ | --------------------------------------------------------- |
-| Cybersecurity            | Proteção de sistemas, redes e dados                       |
-| IAM                      | Gerenciamento de Identidade e Acesso                      |
-| Pentest                  | Simulação autorizada de ataques                           |
-| Vulnerability Management | Processo de identificação e correção de falhas            |
-| Endpoint Security        | Proteção de dispositivos finais                           |
-| Network Security         | Proteção da infraestrutura de rede                        |
-| Cloud Security           | Segurança em ambientes de nuvem                           |
-| Nmap                     | Ferramenta de mapeamento de redes                         |
-| Netcat                   | Ferramenta para conexões TCP e UDP                        |
-| Offensive Security       | Segurança ofensiva para identificação de vulnerabilidades |
+| Conceito                 | Definição                              |
+| ------------------------ | -------------------------------------- |
+| Cybersecurity            | Proteção de ativos digitais            |
+| Cyber Attack             | Ataque direcionado a sistemas ou dados |
+| IAM                      | Gestão de identidade e acesso          |
+| Endpoint Security        | Proteção de dispositivos finais        |
+| Network Security         | Proteção da infraestrutura de rede     |
+| Cloud Security           | Segurança em ambientes de nuvem        |
+| Vulnerability Management | Gestão de vulnerabilidades             |
+| Pentest                  | Simulação autorizada de ataques        |
+| Nmap                     | Ferramenta de mapeamento de redes      |
+| Netcat                   | Ferramenta para conexões TCP/UDP       |
+| Nessus                   | Scanner de vulnerabilidades            |
+| Offensive Security       | Segurança ofensiva                     |
 
 ---
 
 # 🚀 Prompts Reutilizáveis
 
-### Para aprender conceitos
+## Estudo de Conceitos
 
 > Explique o conceito de [TEMA] para um iniciante utilizando exclusivamente as fontes carregadas.
 
-### Para criar conexões
+## Conexão de Conhecimentos
 
 > Relacione [TEMA 1] com [TEMA 2] utilizando exemplos práticos.
 
-### Para revisão
+## Revisão
 
-> Gere um resumo dos principais pontos sobre [TEMA].
+> Gere um resumo estruturado dos principais conceitos sobre [TEMA].
 
-### Para carreira
+## Carreira
 
-> Crie uma trilha de aprendizado progressiva sobre [TEMA].
+> Crie uma trilha de aprendizado para alguém que deseja atuar com [ÁREA].
 
-### Para prática profissional
+## Cenários Reais
 
-> Simule um cenário real onde [TEMA] seja utilizado em uma empresa.
+> Simule um caso real envolvendo [TEMA] e explique como uma equipe de segurança deveria agir.
 
 ---
 
-# 🏆 Conclusão
+# 📈 Resultados Obtidos
 
-A utilização do NotebookLM demonstrou como a Inteligência Artificial pode atuar como uma ferramenta de aprendizagem ativa, auxiliando na organização do conhecimento, criação de conexões entre conceitos e construção de materiais de estudo personalizados.
+Ao final do projeto foi possível:
 
-O projeto resultou na criação de um "Segundo Cérebro" voltado para Cybersecurity, capaz de apoiar futuras revisões, pesquisas e aprofundamentos na área.
+* Centralizar conteúdos de Cybersecurity;
+* Criar uma base de conhecimento reutilizável;
+* Relacionar conceitos estudados;
+* Desenvolver melhores práticas de Engenharia de Prompts;
+* Construir uma trilha de estudos personalizada;
+* Transformar conteúdos dispersos em conhecimento estruturado.
+
+---
+
+# Conclusão
+
+Este projeto demonstrou como ferramentas de Inteligência Artificial podem ser utilizadas para potencializar o aprendizado, transformar informação em conhecimento e criar ambientes personalizados de estudo.
+
+O NotebookLM mostrou-se uma excelente solução para construção de um Segundo Cérebro em Cybersecurity, permitindo organizar conteúdos, realizar consultas contextualizadas e acelerar o processo de aprendizagem.
