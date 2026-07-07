@@ -19,11 +19,7 @@ Cada desafio possui sua própria pasta contendo:
 
 Projeto voltado à utilização do NotebookLM como ferramenta de apoio aos estudos utilizando Inteligência Artificial.
 
-📂 Pasta:
-`/Treinando-uma-IA-de-Aprendizagem-Explore-o-Poder-do-NotebookLM`
-
-GitHub:
-
+GitHub: - [Treinando uma IA de Aprendizagem Explore o Poder do NotebookLM](https://github.com/LHSB1234/miniguia-estudos-notebooklm-cybersecurity/tree/main/Treinando%20uma%20IA%20de%20Aprendizagem%20Explore%20o%20Poder%20do%20NotebookLM)
 
 ---
 
@@ -31,11 +27,7 @@ GitHub:
 
 Projeto focado na análise de feedbacks de clientes utilizando Inteligência Artificial para geração de insights.
 
-📂 Pasta:
-`/Extraindo-Insights-do-Feedback-de-Clientes-Bancarios`
-
-GitHub:
-
+GitHub: - [Extraindo Insights do Feedback de Clientes Bancários](https://github.com/LHSB1234/miniguia-estudos-notebooklm-cybersecurity/tree/main/Extraindo%20Insights%20do%20Feedback%20de%20Clientes%20Banc%C3%A1rios)
 
 ---
 
@@ -43,10 +35,7 @@ GitHub:
 
 Exercícios e desafios abordando os principais conceitos da linguagem Python.
 
-📂 Pasta:
-`/Fundamentos-de-Programacao-com-Python`
-
-GitHub:
+GitHub: - [Fundamentos de Programação com Python](https://github.com/LHSB1234/miniguia-estudos-notebooklm-cybersecurity/tree/main/Fundamentos%20de%20Programa%C3%A7%C3%A3o%20com%20Python)
 
 ---
 
@@ -54,10 +43,7 @@ GitHub:
 
 Projeto dedicado ao estudo de listas, tuplas, conjuntos, dicionários e funções na linguagem Python.
 
-📂 Pasta:
-`/Manipulacao-de-Colecoes-e-Funcoes-em-Python`
-
-GitHub:
+GitHub: - [Manipulação de Coleções e Funções em Python](https://github.com/LHSB1234/miniguia-estudos-notebooklm-cybersecurity/tree/main/Manipula%C3%A7%C3%A3o%20de%20Cole%C3%A7%C3%B5es%20e%20Fun%C3%A7%C3%B5es%20em%20Python)
 
 ---
 
@@ -65,10 +51,7 @@ GitHub:
 
 Desafio envolvendo análise de dados para identificação de possíveis transações anômalas utilizando Python.
 
-📂 Pasta:
-`/Deteccao-de-Anomalias-em-Transacoes-em-Python`
-
-GitHub:
+GitHub: - [Detecção de Anomalias em Transações em Python](https://github.com/LHSB1234/miniguia-estudos-notebooklm-cybersecurity/tree/main/Detec%C3%A7%C3%A3o%20de%20Anomalias%20em%20Transa%C3%A7%C3%B5es%20em%20Python)
 
 ---
 
@@ -76,10 +59,7 @@ GitHub:
 
 Projeto de desenvolvimento de um assistente virtual utilizando conceitos de IA Generativa.
 
-📂 Pasta:
-`/Construa-seu-Assistente-Virtual-com-Inteligencia-Artificial`
-
-GitHub:
+GitHub: - [Construa seu Assistente Virtual com Inteligência Artificial](https://github.com/LHSB1234/miniguia-estudos-notebooklm-cybersecurity/tree/main/Construa%20seu%20Assistente%20Virtual%20com%20Intelig%C3%AAncia%20Artificial)
 
 ---
 
